@@ -1,6 +1,6 @@
 ### Hello, I'm Ajinkya (he/him)! 👋
 
-- 🔭 I am a fourth year PhD student in the Electrical and Computer Engineering Departmentat Purdue University.
+- 🔭 I am a fifth year PhD student in the Electrical and Computer Engineering Departmentat Purdue University.
 - ⚡ I primarily design algorithms on Privacy-Preserving Machine Learning with Differential Privacy and Federated Learning.
 - 🌱 I also work on desigining graph algorithms for novel domains, privacy policy, 
 - 👯 Some other stuff I love: startups, new adventures and finding cool places while travelling!
